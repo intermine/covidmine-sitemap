@@ -1,0 +1,5 @@
+user-agent: *
+
+Sitemap: https://test.intermine.org/covidmine/sitemap-index.xml
+
+
