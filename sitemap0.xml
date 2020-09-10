@@ -122,6 +122,8 @@
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=7113</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=219931</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=NC_045512.2</loc></url>
+<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT990449.1</loc></url>
+<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT990450.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981086.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981087.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981088.1</loc></url>
@@ -211,6 +213,8 @@
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981488.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981489.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT981490.1</loc></url>
+<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT844088.1</loc></url>
+<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT844089.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT974069.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT974071.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT965767.1</loc></url>
@@ -6423,7 +6427,7 @@
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907517.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907518.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907519.1</loc></url>
-<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907520.1</loc></url>
+<url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907520.2</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT907521.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT911467.1</loc></url>
 <url><loc>https://test.intermine.org/covidmine/portal.do?externalids=MT911468.1</loc></url>
